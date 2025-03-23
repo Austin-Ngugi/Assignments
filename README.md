@@ -1,2 +1,0 @@
-# Assignments
-PHP academy
